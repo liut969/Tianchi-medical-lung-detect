@@ -4,6 +4,9 @@
 
 本次医疗比赛采用YOLOv3进行病灶检测，使用ResNet进行假阳性衰减，实现过程**简单，直接**，准确率一般，但适合新人上手，可以作为baseline。
 ![](https://github.com/liut969/Tianchi-medical-lung-detect/blob/master/data/lt.jpg?raw=true)
+
+<img src="https://github.com/liut969/Tianchi-medical-lung-detect/blob/master/data/lt.jpg?raw=true" width="100" hegiht="30" align=center />
+
 ## 代码目录说明
 ```
 |--data
