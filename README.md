@@ -1,6 +1,6 @@
 # [天池比赛-肺部CT多病种智能诊断-全球数据智能大赛(2019)——“数字人体”赛场一](https://tianchi.aliyun.com/competition/entrance/231724/introduction)
 ## 说明
-- 成绩：初赛：41/1635
+- 成绩：初赛B榜：41/1635
 - 赛题数据说明，[请看链接](https://tianchi.aliyun.com/competition/entrance/231724/information)。
 
 - 本次医疗比赛采用YOLOv3进行病灶检测，使用ResNet进行假阳性衰减，实现过程**简单，直接**，准确率一般，但适合新人上手，可以作为baseline。
